@@ -7,7 +7,7 @@ The project provides a simple example of using Entity Framework in Asp.Net
 
 ![alt text](screenshots/addDataPage.png "2nd page")
 
-![alt text](screenshots/Screenshot_3.png "After adding")
+![alt text](screenshots/Screenshot_1.png "After adding")
 
 1. Create new class in model folder
 
