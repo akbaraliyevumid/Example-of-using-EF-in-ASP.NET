@@ -3,7 +3,7 @@ Although the name of the project is about user registration, the project is not 
 
 The project provides a simple example of using Entity Framework in Asp.Net
 
-<img src="screenshots/homePage.png" width="100"/>
+<img src="screenshots/homePage.png" width="400"/>
 ![alt text](screenshots/homePage.png "1st page")
 
 ![alt text](screenshots/addDataPage.png "2nd page")
